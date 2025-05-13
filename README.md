@@ -1,2 +1,2 @@
 # FirstRepo
-Open
+Open my first repo
